@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610633860 source:d:\desktop\proiect ip\interschem\interschem\main.cpp
+	<iostream>
+	<string.h>
+	<graphics.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+
